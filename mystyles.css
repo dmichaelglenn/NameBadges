@@ -1,0 +1,9 @@
+.display-box {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
